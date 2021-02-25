@@ -1,0 +1,1 @@
+Python based solutions to "Bayesian Statistics the fun way" by Will Kurt
